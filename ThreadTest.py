@@ -1,3 +1,11 @@
+##
+#
+#   author  :   Chia Yuan Lin (林家源)
+#
+#   email   :   lo919201@gmail.com
+#
+# #
+
 import thread
 
 def Threadfun( i,j):
